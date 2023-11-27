@@ -1,0 +1,7 @@
+{
+  "name": "graph-api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
